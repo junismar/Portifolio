@@ -1,11 +1,11 @@
-#Projeto Delphi
+# Projeto Delphi
 
 Aplicação API RESFULL com Horse
 
-#Requisitos 
+# Requisitos 
  Instalar o Horse e seus Middlewares
 
-#Informações 
+# Informações 
  Para o desenvolvimento deste projeto, foi utilizado o Delphi Rio 10.3 em conjunto com o FireDAC para estabelecer a conexão
 com o banco de dados. 
 
