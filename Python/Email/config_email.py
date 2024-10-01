@@ -2,9 +2,9 @@
 # 1 - Hotmail ==> Gmail
 # 2 - Gmail ==> Hotmail - Obs: Verificação validação de dois fatores!
 
-smtp_host = 'smtp.office365.com'
+smtp_host = ''
 smtp_port = 587
-smtp_user = 'exemplo_@hotmail.com'
-smtp_password = 'senha_aqui'
+smtp_user = ''
+smtp_password = ''
 
-de = 'exemplo_@hotmail.com'
+de = ''
