@@ -1,0 +1,4 @@
+venv/
+.venv/
+__pycache__/
+enviar_email_teste.py
